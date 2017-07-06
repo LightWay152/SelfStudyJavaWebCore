@@ -1,0 +1,9 @@
+﻿https://commons.apache.org/proper/commons-fileupload/using.html
+https://commons.apache.org/proper/commons-fileupload/apidocs/org/apache/commons/fileupload/disk/DiskFileItemFactory.html
+http://www.javased.com/?api=org.apache.commons.fileupload.disk.DiskFileItemFactory
+https://commons.apache.org/proper/commons-io/download_io.cgi
+
+Note: 
+- need 2 file commons-fileupload-1.3.jar and commons-io-2.5.jar in lib folder
+- source path of 2 test, test1 file is: E:\WorkSpace\JavaWebJSPServletCore\BackupDatabase
+- destionation path of 2 test file is: E:\WorkSpace\JavaWebJSPServletCore\BackupDatabase\UploadSingleFile
