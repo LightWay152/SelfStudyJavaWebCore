@@ -1,0 +1,15 @@
+﻿https://commons.apache.org/proper/commons-fileupload/using.html
+https://commons.apache.org/proper/commons-fileupload/apidocs/org/apache/commons/fileupload/disk/DiskFileItemFactory.html
+http://www.javased.com/?api=org.apache.commons.fileupload.disk.DiskFileItemFactory
+https://commons.apache.org/proper/commons-io/download_io.cgi
+https://crunchify.com/spring-mvc-tutorial-how-to-upload-multiple-files-to-specific-location/
+
+Note:
+- need to understand upload single file before upload multiple file
+- add jquery when upload multiple file with this demo
+- need 2 file commons-fileupload-1.3.jar and commons-io-2.5.jar in lib folder
+- source path of 3 test1UploadMultipleFile, test2UploadMultipleFile, test3UploadMultipleFile file is: 
+E:\WorkSpace\JavaWebJSPServletCore\BackupDatabase
+- destionation path of 3 test above file is: 
+E:\WorkSpace\JavaWebJSPServletCore\BackupDatabase\UploadMultipleFile
+- test1UploadMultipleFile, test2UploadMultipleFile, test3UploadMultipleFile also have in this source git
