@@ -7,3 +7,4 @@ Note:
 - need 2 file commons-fileupload-1.3.jar and commons-io-2.5.jar in lib folder
 - source path of 2 test, test1 file is: E:\WorkSpace\JavaWebJSPServletCore\BackupDatabase
 - destionation path of 2 test file is: E:\WorkSpace\JavaWebJSPServletCore\BackupDatabase\UploadSingleFile
+- 2 test file and UploadSingleFile folder in database folder
