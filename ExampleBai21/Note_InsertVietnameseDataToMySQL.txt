@@ -1,0 +1,13 @@
+﻿- When create database in mysql, at Collation field choose utf8-default collation option.
+
+- When create table in mysql, at Collation field choose utf8-utf8_swedish_ci option.
+
+- In CreateConnection function at DbConnection class, edit Connection String like below:
+String url = "jdbc:mysql://localhost:3306/examplebai21?useUnicode=true&amp;characterEncoding=utf8";
+
+- In doPost function at RegisterController servlet, add more 3 code line like below:
+if(request.getCharacterEncoding()==null){
+	request.setCharacterEncoding("UTF-8");
+}
+
+- backup mysql database named: examplebai21 at Database folder.
