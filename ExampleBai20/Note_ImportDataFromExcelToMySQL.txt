@@ -1,0 +1,7 @@
+﻿Reference document:
+https://poi.apache.org/spreadsheet/quick-guide.html#TextExtraction
+
+- remember to create file excel with data start from row 2, save file with .xls type.
+- remember copy 2 lib: mysql-connector-java and poi-3.16 to lib folder.
+- file excel named: test.xls and backup mysql database named: users.sql.
+- 2 both of file above backup at Database folder.
